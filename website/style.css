@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(0, 0, 0, 0.915);
+}
+h1{
+    font-weight: 400;
+    color: rgb(223, 60, 27);
+}
+p{
+    font-size: larger;
+     font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+h2{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(109, 206, 24);
+}
+pre{
+    font-size: larger;
+    color: aliceblue;
+}
